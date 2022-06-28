@@ -2,3 +2,4 @@
 
 Topics covered:
 setting up a github and colab account
+made a colab data analysis notebook
