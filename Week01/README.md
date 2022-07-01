@@ -16,3 +16,4 @@ Topics covered:
  - Understand the differences between categorical and continuous response variables: Linear regression v/s classification (logistic regression) in both R and Python
  - Understand the difference in quantitative and qualitative analyses as well as the meaning of statistical testing with hypotheses (H0: Null Hypothesis, H1: Alternate Hypothesis)
  - Analysis of classification model results using a confusion matrix, ROC analysis and using sklearn classification reporting techniques
+ - Using boxplots to evaluate teh optimal operating threshold of probability of a classification model
